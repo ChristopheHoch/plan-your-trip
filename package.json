@@ -1,0 +1,15 @@
+{
+  "name": "plan-your-trip",
+  "version": "1.0.0",
+  "description": "Web application designed to plan your next road trip",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChristopheHoch/plan-your-trip.git"
+  },
+  "author": "Christophe Hoch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ChristopheHoch/plan-your-trip/issues"
+  },
+  "homepage": "https://github.com/ChristopheHoch/plan-your-trip#readme"
+}
